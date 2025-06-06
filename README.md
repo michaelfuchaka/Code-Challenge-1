@@ -8,6 +8,6 @@
  2.  **Boda fare calculator**
                 Estimates the fare for a boda boda ride.
 
-    3.  **Mobile money estimator**
+ 3.  **Mobile money estimator**
                 Estimates transaction fees.
 

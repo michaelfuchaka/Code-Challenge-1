@@ -26,7 +26,7 @@ if (typeof distanceInKm=== 'number' && distanceInKm >0 ){
     `);
 }
   else 
-  {console.error(alert("Wacha mambo mkubwa,Weka kilometer twende!"))
+  {console.log(alert("Wacha mambo mkubwa,Weka kilometer twende!"))
     } 
 }
 

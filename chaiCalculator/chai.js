@@ -25,7 +25,7 @@ function calculateChaiIngredients (){
         Enjoy your Chai Bora!
         ` );
      }   
-     else {console.error(alert("Invalid input!,please try again"))}
+     else {console.log(alert("Invalid input!,please try again"))}
     }
    
       calculateChaiIngredients();
